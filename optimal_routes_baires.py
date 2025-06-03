@@ -1285,7 +1285,7 @@ def mostrar_detalle_zona_con_ruta_laboral(zona, index):
 def main():
     try:
         # Configurar título
-        st.title("🔥 Optimizador de Rutas para Prospección en CDMX")
+        st.title("🔥 Optimizador de Rutas para Prospección en CABA")
         st.markdown("Genera rutas óptimas para visitar todos los puntos en cada zona, respetando horario laboral y días hábiles")
         
         # Sidebar para configuración
